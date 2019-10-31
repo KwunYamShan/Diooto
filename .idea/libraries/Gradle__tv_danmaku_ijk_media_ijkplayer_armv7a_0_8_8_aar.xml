@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ijkplayer-armv7a-0.8.8.aar/759e61df0a288813d68c25df5cfaa632/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ijkplayer-armv7a-0.8.8.aar/759e61df0a288813d68c25df5cfaa632/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
