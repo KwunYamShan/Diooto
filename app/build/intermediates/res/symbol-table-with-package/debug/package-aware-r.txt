@@ -638,6 +638,8 @@ dimen hint_pressed_alpha_material_light
 dimen item_touch_helper_max_drag_scroll_per_frame
 dimen item_touch_helper_swipe_escape_max_velocity
 dimen item_touch_helper_swipe_escape_velocity
+dimen jz_start_button_w_h_fullscreen
+dimen jz_start_button_w_h_normal
 dimen notification_action_icon_size
 dimen notification_action_text_size
 dimen notification_big_circle_margin
@@ -758,6 +760,51 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable ic_gif
+drawable jz_add_volume
+drawable jz_back_normal
+drawable jz_back_pressed
+drawable jz_back_tiny_normal
+drawable jz_back_tiny_pressed
+drawable jz_backward_icon
+drawable jz_battery_level_10
+drawable jz_battery_level_100
+drawable jz_battery_level_30
+drawable jz_battery_level_50
+drawable jz_battery_level_70
+drawable jz_battery_level_90
+drawable jz_bottom_bg
+drawable jz_bottom_progress
+drawable jz_bottom_seek_progress
+drawable jz_bottom_seek_thumb
+drawable jz_brightness_video
+drawable jz_clarity_popwindow_bg
+drawable jz_click_back_selector
+drawable jz_click_back_tiny_selector
+drawable jz_click_pause_selector
+drawable jz_click_play_selector
+drawable jz_click_replay_selector
+drawable jz_click_share_selector
+drawable jz_close_volume
+drawable jz_dialog_progress
+drawable jz_dialog_progress_bg
+drawable jz_enlarge
+drawable jz_forward_icon
+drawable jz_loading
+drawable jz_loading_bg
+drawable jz_pause_normal
+drawable jz_pause_pressed
+drawable jz_play_normal
+drawable jz_play_pressed
+drawable jz_restart_normal
+drawable jz_restart_pressed
+drawable jz_seek_thumb_normal
+drawable jz_seek_thumb_pressed
+drawable jz_share_normal
+drawable jz_share_pressed
+drawable jz_shrink
+drawable jz_title_bg
+drawable jz_volume_icon
+drawable jz_volume_progress_bg
 drawable navigation_empty_icon
 drawable notification_action_background
 drawable notification_bg
@@ -772,6 +819,7 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable progress_custom
+drawable retry_bg
 drawable salient_bg_btn_corner_stroke_white
 drawable salient_bg_loading
 drawable salient_brightness
@@ -827,12 +875,18 @@ id always
 id app_bar_layout
 id async
 id auto
+id back
+id back_tiny
 id backdrop
 id backgroundView
+id battery_level
+id battery_time_layout
 id beginning
 id blocking
 id bottom
+id bottom_progress
 id bottom_seek_progress
+id brightness_progressbar
 id buttonPanel
 id cancel_action
 id cardView
@@ -841,6 +895,7 @@ id center_horizontal
 id center_vertical
 id checkbox
 id chronometer
+id clarity
 id clip_horizontal
 id clip_vertical
 id collapseActionView
@@ -866,6 +921,8 @@ id dr_photo_dio_fake_status_id
 id dr_photo_dio_status_id
 id dr_photo_dio_viewpager_id
 id dragDiootoView
+id duration_image_tip
+id duration_progressbar
 id edit_query
 id end
 id end_padder
@@ -879,6 +936,7 @@ id fill_horizontal
 id fill_vertical
 id fixed
 id forever
+id fullscreen
 id ghost_view
 id home
 id homeAsUp
@@ -937,6 +995,9 @@ id progress_circular
 id progress_horizontal
 id radio
 id recyclerView
+id replay_text
+id retry_btn
+id retry_layout
 id right
 id right_icon
 id right_side
@@ -982,6 +1043,7 @@ id status_bar_latest_event_content
 id status_view
 id submenuarrow
 id submit_area
+id surface_container
 id tabMode
 id tag_transition_group
 id text
@@ -991,6 +1053,7 @@ id textSpacerNoTitle
 id text_input_password_toggle
 id textinput_counter
 id textinput_error
+id thumb
 id time
 id title
 id titleDividerNoCustom
@@ -1009,15 +1072,24 @@ id tv
 id tvAlert
 id tvConfirm
 id tvTitle
+id tv_brightness
+id tv_current
+id tv_duration
 id tv_prompt
+id tv_volume
 id uniform
 id up
 id useLogo
 id vertical
 id video_cover
+id video_current_time
+id video_item
+id video_quality_wrapper_area
 id viewPager
 id view_offset_helper
 id visible
+id volume_image_tip
+id volume_progressbar
 id withText
 id wrap_content
 integer abc_config_activityDefaultDur
@@ -1082,6 +1154,12 @@ layout fragment_image
 layout item_grid
 layout item_main
 layout item_video
+layout jz_dialog_brightness
+layout jz_dialog_progress
+layout jz_dialog_volume
+layout jz_layout_clarity
+layout jz_layout_clarity_item
+layout jz_layout_std
 layout notification_action
 layout notification_action_tombstone
 layout notification_media_action
@@ -1146,14 +1224,21 @@ string brvah_load_end
 string brvah_load_failed
 string brvah_loading
 string character_counter_pattern
+string click_to_restart
 string ijkplayer_dummy
+string no_url
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string replay
 string search_menu_title
 string status_bar_notification_info_overflow
+string tips_not_wifi
+string tips_not_wifi_cancel
+string tips_not_wifi_confirm
+string video_loading_failed
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
@@ -1537,6 +1622,8 @@ style Widget_Design_Snackbar
 style Widget_Design_TabLayout
 style Widget_Design_TextInputLayout
 style Widget_Support_CoordinatorLayout
+style jz_popup_toast_anim
+style jz_style_dialog_progress
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity
 styleable ActionMenuItemView android_minWidth
@@ -1597,3 +1684,4 @@ styleable Toolbar android_gravity android_minHeight buttonGravity collapseConten
 styleable View android_theme android_focusable paddingEnd paddingStart theme
 styleable ViewBackgroundHelper android_background backgroundTint backgroundTintMode
 styleable ViewStubCompat android_id android_layout android_inflatedId
+xml jz_network_security_config

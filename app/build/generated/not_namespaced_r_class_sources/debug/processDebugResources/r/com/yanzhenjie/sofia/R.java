@@ -17,13 +17,13 @@ public final class R {
     public static final class id {
         private id() {}
 
-        public static final int content = 0x7f080038;
-        public static final int navigation_view = 0x7f080083;
-        public static final int status_view = 0x7f0800bd;
+        public static final int content = 0x7f08003f;
+        public static final int navigation_view = 0x7f08008d;
+        public static final int status_view = 0x7f0800ca;
     }
     public static final class layout {
         private layout() {}
 
-        public static final int sofia_host_layout = 0x7f0a0048;
+        public static final int sofia_host_layout = 0x7f0a004e;
     }
 }

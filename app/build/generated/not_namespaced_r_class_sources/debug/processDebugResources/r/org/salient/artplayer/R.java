@@ -12,7 +12,7 @@ public final class R {
     public static final class id {
         private id() {}
 
-        public static final int salient_video_fullscreen_id = 0x7f080096;
-        public static final int salient_video_tiny_id = 0x7f080097;
+        public static final int salient_video_fullscreen_id = 0x7f0800a3;
+        public static final int salient_video_tiny_id = 0x7f0800a4;
     }
 }

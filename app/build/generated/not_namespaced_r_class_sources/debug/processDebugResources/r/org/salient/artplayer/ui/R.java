@@ -12,51 +12,51 @@ public final class R {
     public static final class drawable {
         private drawable() {}
 
-        public static final int progress_custom = 0x7f070071;
-        public static final int salient_bg_btn_corner_stroke_white = 0x7f070072;
-        public static final int salient_bg_loading = 0x7f070073;
-        public static final int salient_brightness = 0x7f070074;
-        public static final int salient_icon_back = 0x7f070075;
-        public static final int salient_icon_full_screen = 0x7f070076;
-        public static final int salient_icon_narrow = 0x7f070077;
-        public static final int salient_icon_pause = 0x7f070078;
-        public static final int salient_icon_start = 0x7f070079;
-        public static final int salient_icon_volume = 0x7f07007a;
-        public static final int salient_icon_volume_hover = 0x7f07007b;
-        public static final int salient_seek_bar_video_white = 0x7f07007c;
-        public static final int salient_seek_thumb_video_white = 0x7f07007d;
-        public static final int salient_selector_video_play = 0x7f07007e;
-        public static final int salient_selector_volume = 0x7f07007f;
-        public static final int salient_video_loading = 0x7f070080;
-        public static final int salient_volume = 0x7f070081;
+        public static final int progress_custom = 0x7f07009e;
+        public static final int salient_bg_btn_corner_stroke_white = 0x7f0700a0;
+        public static final int salient_bg_loading = 0x7f0700a1;
+        public static final int salient_brightness = 0x7f0700a2;
+        public static final int salient_icon_back = 0x7f0700a3;
+        public static final int salient_icon_full_screen = 0x7f0700a4;
+        public static final int salient_icon_narrow = 0x7f0700a5;
+        public static final int salient_icon_pause = 0x7f0700a6;
+        public static final int salient_icon_start = 0x7f0700a7;
+        public static final int salient_icon_volume = 0x7f0700a8;
+        public static final int salient_icon_volume_hover = 0x7f0700a9;
+        public static final int salient_seek_bar_video_white = 0x7f0700aa;
+        public static final int salient_seek_thumb_video_white = 0x7f0700ab;
+        public static final int salient_selector_video_play = 0x7f0700ac;
+        public static final int salient_selector_volume = 0x7f0700ad;
+        public static final int salient_video_loading = 0x7f0700ae;
+        public static final int salient_volume = 0x7f0700af;
     }
     public static final class id {
         private id() {}
 
-        public static final int bottom_seek_progress = 0x7f08002a;
-        public static final int controlPlane = 0x7f08003b;
-        public static final int current = 0x7f08003d;
-        public static final int imgOperation = 0x7f080061;
-        public static final int ivLeft = 0x7f080068;
-        public static final int ivRight = 0x7f080069;
-        public static final int ivVolume = 0x7f08006a;
-        public static final int layout_bottom = 0x7f08006c;
-        public static final int layout_top = 0x7f08006d;
-        public static final int llAlert = 0x7f080073;
-        public static final int llOperation = 0x7f080074;
-        public static final int loading = 0x7f080078;
-        public static final int pbOperation = 0x7f08008d;
-        public static final int start = 0x7f0800ba;
-        public static final int start_layout = 0x7f0800bb;
-        public static final int total = 0x7f0800d0;
-        public static final int tvAlert = 0x7f0800d8;
-        public static final int tvConfirm = 0x7f0800d9;
-        public static final int tvTitle = 0x7f0800da;
-        public static final int video_cover = 0x7f0800e0;
+        public static final int bottom_seek_progress = 0x7f08002f;
+        public static final int controlPlane = 0x7f080042;
+        public static final int current = 0x7f080044;
+        public static final int imgOperation = 0x7f08006b;
+        public static final int ivLeft = 0x7f080072;
+        public static final int ivRight = 0x7f080073;
+        public static final int ivVolume = 0x7f080074;
+        public static final int layout_bottom = 0x7f080076;
+        public static final int layout_top = 0x7f080077;
+        public static final int llAlert = 0x7f08007d;
+        public static final int llOperation = 0x7f08007e;
+        public static final int loading = 0x7f080082;
+        public static final int pbOperation = 0x7f080097;
+        public static final int start = 0x7f0800c7;
+        public static final int start_layout = 0x7f0800c8;
+        public static final int total = 0x7f0800df;
+        public static final int tvAlert = 0x7f0800e7;
+        public static final int tvConfirm = 0x7f0800e8;
+        public static final int tvTitle = 0x7f0800e9;
+        public static final int video_cover = 0x7f0800f3;
     }
     public static final class layout {
         private layout() {}
 
-        public static final int salient_layout_video_control_panel = 0x7f0a0043;
+        public static final int salient_layout_video_control_panel = 0x7f0a0049;
     }
 }

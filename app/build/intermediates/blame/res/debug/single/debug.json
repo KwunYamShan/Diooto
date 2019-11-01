@@ -24,6 +24,10 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\131953037174d7456d67ce64eb2321bf\\res\\drawable\\design_fab_background.xml"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\layout_jz_layout_std.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\layout\\jz_layout_std.xml"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
@@ -60,6 +64,10 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\artplayer-ui-0.6.0.aar\\766a28040ee97eeb74b1380817bc367e\\res\\drawable-xxhdpi-v4\\salient_icon_pause.png"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_battery_level_90.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_battery_level_90.png"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\anim\\abc_fade_out.xml"
     },
@@ -72,6 +80,10 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\artplayer-ui-0.6.0.aar\\766a28040ee97eeb74b1380817bc367e\\res\\drawable\\salient_selector_video_play.xml"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_volume_icon.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_volume_icon.png"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
@@ -82,6 +94,10 @@
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_back_normal.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_back_normal.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_header.xml.flat",
@@ -124,12 +140,20 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\131953037174d7456d67ce64eb2321bf\\res\\anim\\design_snackbar_out.xml"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jz_click_replay_selector.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable\\jz_click_replay_selector.xml"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_salient_volume.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\artplayer-ui-0.6.0.aar\\766a28040ee97eeb74b1380817bc367e\\res\\drawable-hdpi-v4\\salient_volume.png"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jz_seek_thumb_normal.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable\\jz_seek_thumb_normal.xml"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
@@ -176,6 +200,14 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jz_bottom_progress.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable\\jz_bottom_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jz_loading.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable\\jz_loading.xml"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
@@ -216,12 +248,16 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
-        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jz_bottom_seek_progress.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable\\jz_bottom_seek_progress.xml"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_salient_icon_volume_hover.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\artplayer-ui-0.6.0.aar\\766a28040ee97eeb74b1380817bc367e\\res\\drawable-xhdpi-v4\\salient_icon_volume_hover.png"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu.xml.flat",
@@ -292,6 +328,10 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\color\\abc_tint_default.xml"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_share_pressed.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_share_pressed.png"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
@@ -320,8 +360,16 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jz_bottom_seek_thumb.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable\\jz_bottom_seek_thumb.xml"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_restart_normal.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_restart_normal.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -330,6 +378,10 @@
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\layout_simple_control_panel.xml.flat",
         "source": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\src\\main\\res\\layout\\simple_control_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_battery_level_70.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_battery_level_70.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_bottom.xml.flat",
@@ -348,6 +400,10 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_loading_bg.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_loading_bg.png"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brvah_sample_footer_loading.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\BaseRecyclerViewAdapterHelper-2.9.44.aar\\6fc7e68df018e83c5317c1b398123b96\\res\\drawable\\brvah_sample_footer_loading.png"
     },
@@ -358,6 +414,10 @@
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_add_volume.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_add_volume.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brvah_sample_footer_loading_progress.xml.flat",
@@ -376,6 +436,10 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\131953037174d7456d67ce64eb2321bf\\res\\color\\design_error.xml"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\layout_jz_layout_clarity_item.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\layout\\jz_layout_clarity_item.xml"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
@@ -388,12 +452,20 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\layout\\abc_screen_simple.xml"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\layout_jz_dialog_brightness.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\layout\\jz_dialog_brightness.xml"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_salient_bg_loading.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\artplayer-ui-0.6.0.aar\\766a28040ee97eeb74b1380817bc367e\\res\\drawable-xxhdpi-v4\\salient_bg_loading.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_pause_normal.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_pause_normal.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\anim_design_bottom_sheet_slide_in.xml.flat",
@@ -440,8 +512,16 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\layout_jz_dialog_progress.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\layout\\jz_dialog_progress.xml"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_brightness_video.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_brightness_video.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\layout_salient_layout_video_control_panel.xml.flat",
@@ -460,6 +540,10 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_jz_clarity_popwindow_bg.9.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xxhdpi-v4\\jz_clarity_popwindow_bg.9.png"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility_off.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\131953037174d7456d67ce64eb2321bf\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
     },
@@ -470,6 +554,14 @@
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\b4b5102e2cf9cb605d3e0c8fb7ea10c7\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\layout_jz_layout_clarity.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\layout\\jz_layout_clarity.xml"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_shrink.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_shrink.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -484,12 +576,20 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\layout_jz_dialog_volume.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\layout\\jz_dialog_volume.xml"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_dark.xml.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_share_normal.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_share_normal.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
@@ -596,6 +696,10 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_battery_level_50.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_battery_level_50.png"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
@@ -648,6 +752,10 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_pause_pressed.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_pause_pressed.png"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
@@ -692,6 +800,10 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jz_dialog_progress_bg.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable\\jz_dialog_progress_bg.xml"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
@@ -728,6 +840,10 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\artplayer-ui-0.6.0.aar\\766a28040ee97eeb74b1380817bc367e\\res\\drawable-xhdpi-v4\\salient_icon_volume.png"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jz_dialog_progress.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable\\jz_dialog_progress.xml"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
@@ -742,6 +858,14 @@
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_dark.xml.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_battery_level_10.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_battery_level_10.png"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_play_normal.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_play_normal.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_content_include.xml.flat",
@@ -820,6 +944,10 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jz_click_back_selector.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable\\jz_click_back_selector.xml"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_clear_material.xml.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable\\abc_ic_clear_material.xml"
     },
@@ -840,6 +968,10 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\xml_jz_network_security_config.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\xml\\jz_network_security_config.xml"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\layout\\abc_action_bar_title_item.xml"
     },
@@ -850,6 +982,10 @@
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jz_seek_thumb_pressed.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable\\jz_seek_thumb_pressed.xml"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -908,20 +1044,28 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_restart_pressed.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_restart_pressed.png"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_gif.png.flat",
         "source": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\src\\main\\res\\drawable\\ic_gif.png"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_enlarge.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_enlarge.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\b4b5102e2cf9cb605d3e0c8fb7ea10c7\\res\\layout\\notification_template_media_custom.xml"
     },
     {
-        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
@@ -972,6 +1116,10 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\artplayer-ui-0.6.0.aar\\766a28040ee97eeb74b1380817bc367e\\res\\drawable-xxhdpi-v4\\salient_volume.png"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_back_pressed.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_back_pressed.png"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
@@ -992,16 +1140,16 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_edit_text_material.xml.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
-        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1132,6 +1280,10 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_retry_bg.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable\\retry_bg.xml"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
     },
@@ -1192,6 +1344,14 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jz_click_back_tiny_selector.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable\\jz_click_back_tiny_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_clarity_popwindow_bg.9.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_clarity_popwindow_bg.9.png"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
@@ -1212,12 +1372,12 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_salient_volume.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\artplayer-ui-0.6.0.aar\\766a28040ee97eeb74b1380817bc367e\\res\\drawable-mdpi-v4\\salient_volume.png"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -1234,6 +1394,10 @@
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_navigation_empty_icon.xml.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\131953037174d7456d67ce64eb2321bf\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_battery_level_30.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_battery_level_30.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_salient_bg_loading.png.flat",
@@ -1264,6 +1428,10 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\layout-v26\\abc_screen_toolbar.xml"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jz_bottom_bg.9.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable\\jz_bottom_bg.9.png"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
@@ -1282,6 +1450,10 @@
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_salient_icon_full_screen.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\artplayer-ui-0.6.0.aar\\766a28040ee97eeb74b1380817bc367e\\res\\drawable-xxhdpi-v4\\salient_icon_full_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jz_click_play_selector.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable\\jz_click_play_selector.xml"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1364,12 +1536,12 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\131953037174d7456d67ce64eb2321bf\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     },
     {
-        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
-        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
-    },
-    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_salient_icon_narrow.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\artplayer-ui-0.6.0.aar\\766a28040ee97eeb74b1380817bc367e\\res\\drawable-xxhdpi-v4\\salient_icon_narrow.png"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_seek_thumb.xml.flat",
@@ -1400,12 +1572,12 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
-        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_borderless_material.xml.flat",
@@ -1418,6 +1590,10 @@
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_battery_level_100.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_battery_level_100.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -1448,6 +1624,10 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jz_volume_progress_bg.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable\\jz_volume_progress_bg.xml"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
@@ -1466,6 +1646,10 @@
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_close_volume.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_close_volume.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -1488,12 +1672,20 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_forward_icon.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_forward_icon.png"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_search_api_material.xml.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_play_pressed.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_play_pressed.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
@@ -1652,6 +1844,10 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jz_click_share_selector.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable\\jz_click_share_selector.xml"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5fc49167be57ea7023a0363f6ddb7f30\\res\\layout-v16\\notification_template_custom_big.xml"
     },
@@ -1674,6 +1870,10 @@
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5fc49167be57ea7023a0363f6ddb7f30\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_back_tiny_normal.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_back_tiny_normal.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
@@ -1716,12 +1916,16 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
-        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jz_title_bg.9.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable\\jz_title_bg.9.png"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
@@ -1816,6 +2020,10 @@
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\131953037174d7456d67ce64eb2321bf\\res\\drawable-v21\\avd_hide_password.xml"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_backward_icon.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_backward_icon.png"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\5fc49167be57ea7023a0363f6ddb7f30\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
@@ -1884,6 +2092,10 @@
         "source": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\src\\main\\res\\mipmap-xhdpi\\mvideo8.jpg"
     },
     {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_jz_back_tiny_pressed.png.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable-xhdpi-v4\\jz_back_tiny_pressed.png"
+    },
+    {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\834eca7905aee2889751c58ccdb83b45\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
@@ -1902,6 +2114,10 @@
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_text_input_password_icon.xml.flat",
         "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\131953037174d7456d67ce64eb2321bf\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jz_click_pause_selector.xml.flat",
+        "source": "C:\\Users\\KwunYamShan\\.gradle\\caches\\transforms-1\\files-1.1\\jiaozivideoplayer-7.0.4.aar\\8fcb6b700a860a10913868fdf41dfabc\\res\\drawable\\jz_click_pause_selector.xml"
     },
     {
         "merged": "C:\\Users\\KwunYamShan\\Desktop\\HBH\\Diooto\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
