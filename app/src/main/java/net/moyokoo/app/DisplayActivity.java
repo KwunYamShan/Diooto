@@ -159,7 +159,7 @@ public class DisplayActivity extends AppCompatActivity {
                                 videoView.start();
                                 dragDiootoView.notifySize(1920, 1080);
                                 MediaPlayerManager.instance().setScreenScale(ScaleType.SCALE_CENTER_CROP);
-                            })
+                            } )
                             //到最小状态的接口
                             .onFinish(dragDiootoView -> MediaPlayerManager.instance().releasePlayerAndView(context))
                             .start();
