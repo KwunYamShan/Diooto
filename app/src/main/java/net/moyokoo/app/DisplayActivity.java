@@ -135,7 +135,7 @@ public class DisplayActivity extends AppCompatActivity {
                 if (activityPosition == 3) {
                     //加载视频
                     Diooto diooto = new Diooto(context)
-                            .urls(normalImageUlr[position])
+                            .urls(normalImageUlr)
                             .position(holder.getAdapterPosition())
                             .views(holder.srcImageView)
                             .type(DiootoConfig.VIDEO)
